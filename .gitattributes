@@ -15,3 +15,6 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+git remote add origin https://github.com/NadaHussein/google-gdata.git
+git push -u origin master
+
